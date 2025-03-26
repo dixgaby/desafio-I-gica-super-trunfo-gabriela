@@ -1,7 +1,4 @@
 # Super-Trunfo
-Super-Trunfo, codigos...
-# Super-Trunfo
-Super-Trunfo, codigos...
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
