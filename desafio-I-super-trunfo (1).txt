@@ -1,7 +1,3 @@
-# Super-Trunfo
-Super-Trunfo, codigos...
-# Super-Trunfo
-Super-Trunfo, codigos...
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
@@ -44,5 +40,4 @@ int main() {
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
 
     return 0;
-
 }
