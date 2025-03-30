@@ -1,5 +1,4 @@
-Super Trunfo, códigos...
-#include <stdio.h>
+#include <stdio.h>     
 
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
@@ -10,7 +9,7 @@ int main() {
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
-    
+
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
@@ -36,9 +35,9 @@ int main() {
     // Exibição dos Resultados:
     // Após realizar as comparações, exiba os resultados para o usuário.
     // Certifique-se de que o sistema mostre claramente qual carta venceu e com base em qual atributo.
-
+   
     // Exemplo:
     // printf("A cidade vencedora é: %s\n", cidadeVencedora);
-
+    
     return 0;
 }
